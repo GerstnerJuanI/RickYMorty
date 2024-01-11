@@ -1,0 +1,21 @@
+.personaje{
+    border: 3px solid black;
+    border-radius: 4%;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.personaje img{
+    width: 100%;
+}
+
+.vivo{
+    border-color: lightgreen;
+}
+.muerto{
+    border-color:lightcoral;
+}
+.muerto img{
+    filter: grayscale(100%);
+}
